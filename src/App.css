@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input::placeholder{
+  color: blue;
+}
+
+/* input{
+  position: relative;
+  line-height: 80px;
+  transition: 0.1s ease;
+  z-index: 1111;
+}
+
+.task{
+  position: absolute;
+  transition: 0.2s ease;
+
+}
+
+input .task{
+  transform: translate(-15px, -16px) scale(0.88);
+  z-index: 1111;
+} */
+
